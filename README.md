@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chitransh Srivastava</h1>
 <h3 align="center">CSE (AI) Student | Cybersecurity Enthusiast | Future Blue Teamer</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🎓 B.Tech CSE (AI) at GL Bajaj Institute of Technology & Management
 - 🔐 Interested in Blue Teaming, SOC Operations & Threat Hunting
