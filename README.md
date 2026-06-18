@@ -26,7 +26,9 @@ OCI | AWS | Azure
 
 ### 🌐 Connect with Me
 📧 [chitranshcsk2005@gmail.com](mailto:chitranshcsk2005@gmail.com)
+
 💼 [LinkedIn](https://www.linkedin.com/in/chitransh-srivastava-csk2005/)
+
 🏆 [LeetCode](https://leetcode.com/u/chitransh_csk2005/)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
@@ -38,10 +40,15 @@ OCI | AWS | Azure
 🏆 Certifications
 
 ✔ OCI Foundations Associate
+
 ✔ OCI Multicloud Architect Professional
+
 ✔ Certified Blue Team Practitioner (CBTP)
+
 ✔ Palo Alto Cybersecurity Foundation
+
 ✔ IBM Threat Intelligence & Hunting
+
 ✔ Red Hat Linux Fundamentals
 
 ### ⭐ “Building technology that solves real-world problems.”
