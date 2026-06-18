@@ -27,16 +27,15 @@ OCI | AWS | Azure
 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/chitransh-srivastava-csk2005/)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitranshcsk2005-ctrl&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshcsk2005-ctrl&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chitranshcsk2005-ctrl&theme=tokyonight)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
 🏆 Certifications
 
 ✔ OCI Foundations Associate
@@ -46,6 +45,6 @@ OCI | AWS | Azure
 ✔ IBM Threat Intelligence & Hunting
 ✔ Red Hat Linux Fundamentals
 
-![](https://komarev.com/ghpvc/?username=chitranshcsk2005-ctrl)
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
