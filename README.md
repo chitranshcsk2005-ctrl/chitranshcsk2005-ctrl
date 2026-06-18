@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
+## 🚀 About Me
+
 - 🎓 B.Tech CSE (AI) at GL Bajaj Institute of Technology & Management
 - 🔐 Interested in Blue Teaming, SOC Operations & Threat Hunting
 - ☁️ Learning OCI, AWS, Cloud Security
@@ -23,7 +25,9 @@ OCI | AWS | Azure
 ![GitHub Streak](https://streak-stats.demolab.com?user=chitranshcsk2005-ctrl&theme=tokyonight)
 
 ### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/chitransh-srivastava-csk2005/)
+📧 [chitranshcsk2005@gmail.com](mailto:chitranshcsk2005@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/chitransh-srivastava-csk2005/)
+🏆 [LeetCode](https://leetcode.com/u/chitransh_csk2005/)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -40,6 +44,6 @@ OCI | AWS | Azure
 ✔ IBM Threat Intelligence & Hunting
 ✔ Red Hat Linux Fundamentals
 
-
+### ⭐ “Building technology that solves real-world problems.”
 
 
