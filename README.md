@@ -8,7 +8,7 @@
 - ☁️ Learning OCI, AWS, Cloud Security
 - 💻 Solving DSA problems on LeetCode
 - 🚀 Building IoT & Cybersecurity Projects
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: chitranshcsk2005@gmail.com
 
 ### 🛠️ Skills
 Java | Python | C++ | JavaScript | SQL
@@ -26,4 +26,4 @@ OCI | AWS | Azure
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chitranshcsk2005-ctrl)
 
 ### 🌐 Connect with Me
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/chitransh-srivastava-csk2005/)
