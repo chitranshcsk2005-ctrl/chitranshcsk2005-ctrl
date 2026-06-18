@@ -14,21 +14,16 @@
 Java | Python | C++ | JavaScript | SQL
 
 ### 🔐 Cybersecurity
-SIEM | SOC | Splunk | Threat Intelligence | Kali Linux
+SIEM | SOC | Splunk | Threat Intelligence | Kali Linux | PaloALto Networks
 
 ### ☁️ Cloud
 OCI | AWS | Azure
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitranshcsk2005-ctrl&show_icons=true)
-
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=chitranshcsk2005-ctrl)
+![GitHub Streak](https://streak-stats.demolab.com?user=chitranshcsk2005-ctrl&theme=tokyonight)
 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/chitransh-srivastava-csk2005/)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chitranshcsk2005-ctrl&theme=tokyonight)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
